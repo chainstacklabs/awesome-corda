@@ -25,7 +25,7 @@ Pull requests are welcome!
 5. [Learning and online courses](#learning-and-online-courses)
 6. [Videos](#videos)
 7. [CorDapps](#cordapps)
-8. [Communities](#communities)
+8. [Community](#community)
 9. [Misc](#misc)
 10. [Official](#official)
 
