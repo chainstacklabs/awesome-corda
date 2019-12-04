@@ -100,4 +100,4 @@ Contributions welcome! Read [contribution guidelines](CONTRIBUTING.md).
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, @akegaviar has waived all copyright and related or neighboring rights to this work. For the full license see `LICENSE.md`.
+To the extent possible under law, @akegaviar has waived all copyright and related or neighboring rights to this work. For the full license, see `LICENSE.md`.
