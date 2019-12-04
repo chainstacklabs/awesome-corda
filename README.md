@@ -46,6 +46,7 @@ Pull requests are welcome!
 - [Web3j integration for Corda](http://corda.web3j.io/) — A lightweight client library for working with CorDapps.
 - [Smart legal contracts](https://www.accordproject.org/news/smart-legal-contracts-on-corda/) — A reference implementation for smart legal contracts on Corda.
 - [Nodes and networks deployment](https://chainstack.com/corda/) — Easy Corda nodes and networks deployment.
+- [Interact with nodes](https://docs.chainstack.com/operations/corda/tools) — Interact with your Corda nodes through a standalone shell, from an app, or a web server.
 
 
 ## Tutorials
@@ -63,7 +64,7 @@ Pull requests are welcome!
 
 ## Videos
 
-- [Corda Bootcamp](https://www.youtube.com/playlist?list=PLi1PppB3-YrVq5Qy_RM9Qidq0eh-nL11N) — A playlist of 20 videos for Corda beginners
+- [Corda Bootcamp](https://www.youtube.com/playlist?list=PLi1PppB3-YrVq5Qy_RM9Qidq0eh-nL11N) — A playlist of 20 videos for Corda beginners.
 
 
 ## CorDapps
@@ -78,7 +79,7 @@ Try out CorDapps and get inspired.
 ## Community
 
 - [Slack](http://slack.corda.net/) — Talk to the Corda community.
-- [Mainling list](https://groups.io/g/corda-dev) — Joing the Corda developers mailing list.
+- [Mailing list](https://groups.io/g/corda-dev) — Joing the Corda developers mailing list.
 
 
 ## Misc
