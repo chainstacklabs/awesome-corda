@@ -20,14 +20,14 @@ Pull requests are welcome!
 
 1. [Documentation](#documentation)
 2. [Programming](#programming)
-4. [Tools](#tools)
-3. [Tutorials](#tutorials)
+3. [Tools](#tools)
+4. [Tutorials](#tutorials)
 5. [Learning and online courses](#learning-and-online-courses)
-7. [Videos](#videos)
-8. [CordApps](#cordapps)
-9. [Communities](#communities)
-12. [Misc](#misc)
-13. [Official](#official)
+6. [Videos](#videos)
+7. [CordApps](#cordapps)
+8. [Communities](#communities)
+9. [Misc](#misc)
+10. [Official](#official)
 
 
 ## Documentation
