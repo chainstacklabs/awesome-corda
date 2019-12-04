@@ -24,7 +24,7 @@ Pull requests are welcome!
 4. [Tutorials](#tutorials)
 5. [Learning and online courses](#learning-and-online-courses)
 6. [Videos](#videos)
-7. [CordApps](#cordapps)
+7. [CorDapps](#cordapps)
 8. [Communities](#communities)
 9. [Misc](#misc)
 10. [Official](#official)
@@ -32,53 +32,53 @@ Pull requests are welcome!
 
 ## Documentation
 
-- [Documentation](https://docs.corda.net/) - Corda documentation. The go-to place for all things.
-- [Technical whitepaper](https://www.r3.com/reports/corda-technical-whitepaper/) - Technical description of Corda.
+- [Documentation](https://docs.corda.net/) — Corda documentation. The go-to place for all things.
+- [Technical whitepaper](https://www.r3.com/reports/corda-technical-whitepaper/) — Technical description of Corda.
 
 
 ## Programming
 
 - [Development environment](https://docs.corda.net/getting-set-up.html#set-up-instructions) — Step-by-step instructions to start developing on Corda.
-- [Cord API reference](https://docs.corda.net/api/) - Corda public API reference.
+- [Cord API reference](https://docs.corda.net/api/) — Corda public API reference.
 
 ## Tools
 
-- [Web3j integration for Corda](http://corda.web3j.io/) - A lightweight client library for working with CorDapps.
-- [Smart legal contracts](https://www.accordproject.org/news/smart-legal-contracts-on-corda/) - A reference implementation for smart legal contracts on Corda.
-- [Nodes and networks deployment](https://chainstack.com/corda/) - Easy Corda nodes and networks deployment.
+- [Web3j integration for Corda](http://corda.web3j.io/) — A lightweight client library for working with CorDapps.
+- [Smart legal contracts](https://www.accordproject.org/news/smart-legal-contracts-on-corda/) — A reference implementation for smart legal contracts on Corda.
+- [Nodes and networks deployment](https://chainstack.com/corda/) — Easy Corda nodes and networks deployment.
 
 
 ## Tutorials
 
-- [Official Corda tutorials](https://docs.corda.net/tutorials-index.html) - Learn to build and run CorDapps.
+- [Official Corda tutorials](https://docs.corda.net/tutorials-index.html) — Learn to build and run CorDapps.
 - [Sample CorDapps](https://github.com/corda/samples/) — Explore the code of sample CorDapps targeting various uses.
-- [No ticket scalping CorDapp](https://docs.chainstack.com/tutorials/no-ticket-scalping-cordapp-on-corda) - Build, run, and interact with a CorDapp from scratch.
+- [No ticket scalping CorDapp](https://docs.chainstack.com/tutorials/no-ticket-scalping-cordapp-on-corda) — Build, run, and interact with a CorDapp from scratch.
 
 
 ## Learning and online courses
 
-- [Introduction to Corda Development](https://www.udemy.com/course/corda-development/) - A free self-paced online course.
-- [Corda developer certification](https://www.r3.com/training-and-certification/) - Become a certified Corda developer.
+- [Introduction to Corda Development](https://www.udemy.com/course/corda-development/) — A free self-paced online course.
+- [Corda developer certification](https://www.r3.com/training-and-certification/) — Become a certified Corda developer.
 
 
 ## Videos
 
-- [Corda Bootcamp](https://www.youtube.com/playlist?list=PLi1PppB3-YrVq5Qy_RM9Qidq0eh-nL11N) - A playlist of 20 videos for Corda beginners
+- [Corda Bootcamp](https://www.youtube.com/playlist?list=PLi1PppB3-YrVq5Qy_RM9Qidq0eh-nL11N) — A playlist of 20 videos for Corda beginners
 
 
 ## CorDapps
 
 Try out CorDapps and get inspired.
 
-- [Private health insurance management](https://github.com/corda-codeclub/marge) - A private health insurance CorDapp.
-- [Credit scoring](https://github.com/rafaelazeredo/creditbank) - A credit scoring service between the user and retail banks.
-- [Sustainable fishing rights](https://github.com/joeldudleyr3/olive-oyl) - A CorDapp to manage fishing rights.
+- [Private health insurance management](https://github.com/corda-codeclub/marge) — A private health insurance CorDapp.
+- [Credit scoring](https://github.com/rafaelazeredo/creditbank) — A credit scoring service between the user and retail banks.
+- [Sustainable fishing rights](https://github.com/joeldudleyr3/olive-oyl) — A CorDapp to manage fishing rights.
 
 
 ## Community
 
-- [Slack](http://slack.corda.net/) - Talk to the Corda community.
-- [Mainling list](https://groups.io/g/corda-dev) - Joing the Corda developers mailing list.
+- [Slack](http://slack.corda.net/) — Talk to the Corda community.
+- [Mainling list](https://groups.io/g/corda-dev) — Joing the Corda developers mailing list.
 
 
 ## Misc
