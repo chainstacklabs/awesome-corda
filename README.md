@@ -24,6 +24,7 @@ Pull requests are welcome!
 5. [Learning and online courses](#learning-and-online-courses)
 6. [Videos](#videos)
 7. [CorDapps](#cordapps)
+8. [Networks](#networks)
 8. [Community](#community)
 9. [Misc](#misc)
 10. [Official](#official)
@@ -43,9 +44,14 @@ Pull requests are welcome!
 ## Tools
 
 - [Web3j integration for Corda](http://corda.web3j.io/) — A lightweight client library for working with CorDapps.
+- [VS Code Corda extension](https://github.com/corda/vscode-corda) — VS Code tools for developing CorDapps on the Corda platform.
 - [Smart legal contracts with Accord](https://www.accordproject.org/news/smart-legal-contracts-on-corda/) — A reference implementation for smart legal contracts on Corda.
 - [Nodes and networks deployment with Chainstack](https://chainstack.com/corda/) — Easy Corda nodes and networks deployment.
 - [Interact with nodes](https://docs.chainstack.com/operations/corda/tools) — Interact with your Corda nodes through a standalone shell, from an app, or a web server.
+- [Braid Corda](https://gitlab.com/bluebank/braid/tree/master/braid-corda) - Create Braid endpoints and streams from your Corda node.
+- [PyCorda](https://github.com/chainhaus/pycorda) - Access node and vault data for analytics using pandas DataFrames.
+- [XTS Fountain](https://cordite.foundation/) - Mint XTS tokens and send them to a token account on a Corda node.
+- [Koto](https://github.com/cordacity/koto) - API tool chain designed to simplify and empower Kotlin development.
 
 
 ## Tutorials
@@ -73,6 +79,15 @@ Try out CorDapps and get inspired. Also explore the [CorDapp marketplace](https:
 - [Private health insurance management](https://github.com/corda-codeclub/marge) — A private health insurance CorDapp.
 - [Credit scoring](https://github.com/rafaelazeredo/creditbank) — A credit scoring service between the user and retail banks.
 - [Sustainable fishing rights](https://github.com/joeldudleyr3/olive-oyl) — A CorDapp to manage fishing rights.
+- [Cordite](https://gitlab.com/cordite/cordite) - A collection of CorDapps providing decentralized economics and governance services.
+- [Koncerto](https://github.com/cordacity/koncerto) - Distributed membership and multi-lateral relationship management for business networks on Corda.
+
+## Networks
+
+- [Corda Network](https://corda.network/) - A global production network run by the Corda Network Foundation.
+- [UAT Network](https://corda.network/participation/preprod.html) - A UAT network providing a pre-production environment run by the Corda Network Foundation.
+- [Corda Testnet](https://docs.corda.net/corda-testnet-intro.html) - A free public testnet with minimal permissions run by the the Corda Network Foundation.
+- [Cordite Network](https://cordite.foundation/) - A testnet open to anyone run by the Cordite Foundation.
 
 
 ## Community
