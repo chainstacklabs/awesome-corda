@@ -69,7 +69,7 @@ Pull requests are welcome!
 
 ## CorDapps
 
-Try out CorDapps and get inspired.
+Try out CorDapps and get inspired. Also explore the [CorDapp marketplace](https://marketplace.r3.com/).
 
 - [Private health insurance management](https://github.com/corda-codeclub/marge) — A private health insurance CorDapp.
 - [Credit scoring](https://github.com/rafaelazeredo/creditbank) — A credit scoring service between the user and retail banks.
