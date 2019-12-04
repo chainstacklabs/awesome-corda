@@ -1,8 +1,7 @@
 <br/>
 <div align="center">
-  <img width="250px" src="./ttk_logo">
+  <img width="250px" src="./project_logo.png">
 </div>
-<br/>
 <div align="center">
 An awesome list about everything related to the <a href='https://en.wikipedia.org/wiki/R3_(company)#Corda'>Corda</a> platform.
 <br />
@@ -45,9 +44,9 @@ Pull requests are welcome!
 ## Tools
 
 - [Web3j integration for Corda](http://corda.web3j.io/) — A lightweight client library for working with CorDapps.
-- [VS Code Corda extension](https://github.com/corda/vscode-corda) — VS Code tools for developing CorDapps on the Corda platform. 
-- [Smart legal contracts](https://www.accordproject.org/news/smart-legal-contracts-on-corda/) — A reference implementation for smart legal contracts on Corda.
-- [Nodes and networks deployment](https://chainstack.com/corda/) — Easy Corda nodes and networks deployment.
+- [VS Code Corda extension](https://github.com/corda/vscode-corda) — VS Code tools for developing CorDapps on the Corda platform.
+- [Smart legal contracts with Accord](https://www.accordproject.org/news/smart-legal-contracts-on-corda/) — A reference implementation for smart legal contracts on Corda.
+- [Nodes and networks deployment with Chainstack](https://chainstack.com/corda/) — Easy Corda nodes and networks deployment.
 - [Interact with nodes](https://docs.chainstack.com/operations/corda/tools) — Interact with your Corda nodes through a standalone shell, from an app, or a web server.
 - [Braid Corda](https://gitlab.com/bluebank/braid/tree/master/braid-corda) - Create Braid endpoints and streams from your Corda node.
 - [PyCorda](https://github.com/chainhaus/pycorda) - Access node and vault data for analytics using pandas DataFrames.
@@ -75,7 +74,7 @@ Pull requests are welcome!
 
 ## CorDapps
 
-Try out CorDapps and get inspired.
+Try out CorDapps and get inspired. Also explore the [CorDapp marketplace](https://marketplace.r3.com/).
 
 - [Private health insurance management](https://github.com/corda-codeclub/marge) — A private health insurance CorDapp.
 - [Credit scoring](https://github.com/rafaelazeredo/creditbank) — A credit scoring service between the user and retail banks.
