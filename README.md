@@ -2,7 +2,6 @@
 <div align="center">
   <img width="250px" src="./project_logo.png">
 </div>
-<br/>
 <div align="center">
 An awesome list about everything related to the <a href='https://en.wikipedia.org/wiki/R3_(company)#Corda'>Corda</a> platform.
 <br />
