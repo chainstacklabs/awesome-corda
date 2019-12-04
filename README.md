@@ -89,7 +89,7 @@ Try out CorDapps and get inspired.
 
 ## Official
 
-- [Corda Website](https://www.corda.net/)
+- [Corda website](https://www.corda.net/)
 
 
 ## Contribute
