@@ -44,8 +44,8 @@ Pull requests are welcome!
 ## Tools
 
 - [Web3j integration for Corda](http://corda.web3j.io/) — A lightweight client library for working with CorDapps.
-- [Smart legal contracts](https://www.accordproject.org/news/smart-legal-contracts-on-corda/) — A reference implementation for smart legal contracts on Corda.
-- [Nodes and networks deployment](https://chainstack.com/corda/) — Easy Corda nodes and networks deployment.
+- [Smart legal contracts with Accord](https://www.accordproject.org/news/smart-legal-contracts-on-corda/) — A reference implementation for smart legal contracts on Corda.
+- [Nodes and networks deployment with Chainstack](https://chainstack.com/corda/) — Easy Corda nodes and networks deployment.
 - [Interact with nodes](https://docs.chainstack.com/operations/corda/tools) — Interact with your Corda nodes through a standalone shell, from an app, or a web server.
 
 
