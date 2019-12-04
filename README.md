@@ -79,7 +79,7 @@ Try out CorDapps and get inspired.
 ## Community
 
 - [Slack](http://slack.corda.net/) — Talk to the Corda community.
-- [Mailing list](https://groups.io/g/corda-dev) — Joing the Corda developers mailing list.
+- [Mailing list](https://groups.io/g/corda-dev) — Join the Corda developers mailing list.
 
 
 ## Misc
