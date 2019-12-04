@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-  <img width="250px" src="./ttk_logo">
+  <img width="250px" src="./project_logo.png">
 </div>
 <br/>
 <div align="center">
