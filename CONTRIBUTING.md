@@ -10,4 +10,4 @@ Ensure your pull request adheres to the following guidelines:
 - Make sure the resource is actually high quality
 - You should have read the resource
 
-Get involved!
+Get involved! Add your [CorDapps](https://github.com/chainstack/awesome-corda/blob/master/README.md#cordapps) to the list!
