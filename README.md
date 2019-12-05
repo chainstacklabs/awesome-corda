@@ -14,6 +14,8 @@ Corda is an open-source blockchain platform.
 
 Pull requests are welcome!
 
+Add your [CorDapps](#cordapps) to the list!
+
 
 ## Contents
 
