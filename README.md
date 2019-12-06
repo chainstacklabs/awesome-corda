@@ -53,6 +53,9 @@ Pull requests are welcome!
 - [XTS Fountain](https://cordite.foundation/) — Mint XTS tokens and send them to a token account on a Corda node.
 - [Koto](https://github.com/cordacity/koto) — API tool chain designed to simplify and empower Kotlin development.
 - [Cordalo](https://github.com/cordalo-ch) — Provide Corda frameworks to speed up your development in the decentralized space.
+- [Corbeans](https://manosbatsis.github.io/corbeans) — Corda integration for Spring Boot
+- [Partiture](https://manosbatsis.github.io/partiture/) — A compact component framework for your CorDapps. Currently, its primary goal is to simplify flow composition
+- [Vaultaire](https://manosbatsis.github.io/vaultaire/) — Query DSL and data access utilities for Corda developers
 
 ## Tutorials
 
