@@ -52,7 +52,7 @@ Pull requests are welcome!
 - [PyCorda](https://github.com/chainhaus/pycorda) — Access node and vault data for analytics using pandas DataFrames.
 - [XTS Fountain](https://cordite.foundation/) — Mint XTS tokens and send them to a token account on a Corda node.
 - [Koto](https://github.com/cordacity/koto) — API tool chain designed to simplify and empower Kotlin development.
-
+- [Cordalo](https://github.com/cordalo-ch) — provide CORDA frameworks to speed up your development in the decentralized space.
 
 ## Tutorials
 
