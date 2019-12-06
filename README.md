@@ -62,7 +62,7 @@ Pull requests are welcome!
 - [Official Corda tutorials](https://docs.corda.net/tutorials-index.html) — Learn to build and run CorDapps.
 - [Sample CorDapps](https://github.com/corda/samples/) — Explore the code of sample CorDapps targeting various uses.
 - [No ticket scalping CorDapp](https://docs.chainstack.com/tutorials/no-ticket-scalping-cordapp-on-corda) — Build, run, and interact with a CorDapp from scratch.
-- [Vaultaire: Corda Vault Queries Made Simple](https://medium.com/@manosbatsis/vaultaire-corda-vault-queries-made-simple-d13db4147298) - Upgrade to a clean and easy to use query DSL generated just for you.
+- [Vaultaire: Corda Vault Queries Made Simple](https://medium.com/@manosbatsis/vaultaire-corda-vault-queries-made-simple-d13db4147298) — Upgrade to a clean and easy to use query DSL generated just for you.
 
 
 ## Learning and online courses
