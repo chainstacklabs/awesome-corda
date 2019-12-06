@@ -6,15 +6,13 @@
 An awesome list about everything related to the <a href='https://en.wikipedia.org/wiki/R3_(company)#Corda'>Corda</a> platform.
 <br />
 Corda is an open-source blockchain platform.
-<br/>
+<br/><br/>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 <br/>
 
 Pull requests are welcome!
-
-Add your [CorDapps](#cordapps) to the list!
 
 
 ## Contents
@@ -50,10 +48,10 @@ Add your [CorDapps](#cordapps) to the list!
 - [Smart legal contracts with Accord](https://www.accordproject.org/news/smart-legal-contracts-on-corda/) — A reference implementation for smart legal contracts on Corda.
 - [Nodes and networks deployment with Chainstack](https://chainstack.com/corda/) — Easy Corda nodes and networks deployment.
 - [Interact with nodes](https://docs.chainstack.com/operations/corda/tools) — Interact with your Corda nodes through a standalone shell, from an app, or a web server.
-- [Braid Corda](https://gitlab.com/bluebank/braid/tree/master/braid-corda) - Create Braid endpoints and streams from your Corda node.
-- [PyCorda](https://github.com/chainhaus/pycorda) - Access node and vault data for analytics using pandas DataFrames.
-- [XTS Fountain](https://cordite.foundation/) - Mint XTS tokens and send them to a token account on a Corda node.
-- [Koto](https://github.com/cordacity/koto) - API tool chain designed to simplify and empower Kotlin development.
+- [Braid Corda](https://gitlab.com/bluebank/braid/tree/master/braid-corda) — Create Braid endpoints and streams from your Corda node.
+- [PyCorda](https://github.com/chainhaus/pycorda) — Access node and vault data for analytics using pandas DataFrames.
+- [XTS Fountain](https://cordite.foundation/) — Mint XTS tokens and send them to a token account on a Corda node.
+- [Koto](https://github.com/cordacity/koto) — API tool chain designed to simplify and empower Kotlin development.
 
 
 ## Tutorials
@@ -76,20 +74,20 @@ Add your [CorDapps](#cordapps) to the list!
 
 ## CorDapps
 
-Try out CorDapps and get inspired. Also explore the [CorDapp marketplace](https://marketplace.r3.com/).
+Try out CorDapps and get inspired. Also explore the [CorDapp marketplace](https://marketplace.r3.com/) or add your CorDapp to the list!
 
 - [Private health insurance management](https://github.com/corda-codeclub/marge) — A private health insurance CorDapp.
 - [Credit scoring](https://github.com/rafaelazeredo/creditbank) — A credit scoring service between the user and retail banks.
 - [Sustainable fishing rights](https://github.com/joeldudleyr3/olive-oyl) — A CorDapp to manage fishing rights.
-- [Cordite](https://gitlab.com/cordite/cordite) - A collection of CorDapps providing decentralized economics and governance services.
-- [Koncerto](https://github.com/cordacity/koncerto) - Distributed membership and multi-lateral relationship management for business networks on Corda.
+- [Cordite](https://gitlab.com/cordite/cordite) — A collection of CorDapps providing decentralized economics and governance services.
+- [Koncerto](https://github.com/cordacity/koncerto) — Distributed membership and multi-lateral relationship management for business networks on Corda.
 
 ## Networks
 
-- [Corda Network](https://corda.network/) - A global production network run by the Corda Network Foundation.
-- [UAT Network](https://corda.network/participation/preprod.html) - A UAT network providing a pre-production environment run by the Corda Network Foundation.
-- [Corda Testnet](https://docs.corda.net/corda-testnet-intro.html) - A free public testnet with minimal permissions run by the the Corda Network Foundation.
-- [Cordite Network](https://cordite.foundation/) - A testnet open to anyone run by the Cordite Foundation.
+- [Corda Network](https://corda.network/) — A global production network run by the Corda Network Foundation.
+- [UAT Network](https://corda.network/participation/preprod.html) — A UAT network providing a pre-production environment run by the Corda Network Foundation.
+- [Corda Testnet](https://docs.corda.net/corda-testnet-intro.html) — A free public testnet with minimal permissions run by the the Corda Network Foundation.
+- [Cordite Network](https://cordite.foundation/) — A testnet open to anyone run by the Cordite Foundation.
 
 
 ## Community
@@ -116,4 +114,4 @@ Contributions welcome! Read [contribution guidelines](CONTRIBUTING.md).
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, @chainstack has waived all copyright and related or neighboring rights to this work. For the full license, see `LICENSE.md`.
+To the extent possible under law, Chainstack has waived all copyright and related or neighboring rights to this work. For the full license, see `LICENSE.md`.
