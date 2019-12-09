@@ -98,6 +98,7 @@ Try out CorDapps and get inspired. Also explore the [CorDapp marketplace](https:
 
 - [Slack](http://slack.corda.net/) — Talk to the Corda community.
 - [Mailing list](https://groups.io/g/corda-dev) — Join the Corda developers mailing list.
+- [Corda Code Club](https://www.meetup.com/Corda-Code-Club/) — Corda Developer Meetup in London.
 
 
 ## Misc
