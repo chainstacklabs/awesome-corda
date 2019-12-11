@@ -45,6 +45,7 @@ Pull requests are welcome!
 
 - [Web3j integration for Corda](http://corda.web3j.io/) — A lightweight client library for working with CorDapps.
 - [VS Code Corda extension](https://github.com/corda/vscode-corda) — VS Code tools for developing CorDapps on the Corda platform.
+- [DemoBench](https://www.corda.net/demobench/) — A standalone desktop app to configure and launch local Corda nodes.
 - [Smart legal contracts with Accord](https://www.accordproject.org/news/smart-legal-contracts-on-corda/) — A reference implementation for smart legal contracts on Corda.
 - [Nodes and networks deployment with Chainstack](https://chainstack.com/corda/) — Easy Corda nodes and networks deployment.
 - [Interact with nodes](https://docs.chainstack.com/operations/corda/tools) — Interact with your Corda nodes through a standalone shell, from an app, or a web server.
