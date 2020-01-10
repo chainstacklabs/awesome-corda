@@ -6,7 +6,6 @@
 <div align="center">
   <img width="250px" src="./project_logo.png">
 </div>
-<div align="center">
 
 Pull requests are welcome!
 
