@@ -1,4 +1,4 @@
-# Corda [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Corda [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Corda is an open-source blockchain platform.
 
