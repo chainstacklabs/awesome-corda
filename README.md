@@ -1,11 +1,8 @@
-# Awesome Corda [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> Corda is an open-source blockchain platform.
 
 <div align="center">
   <a href="https://www.corda.net/"><img width="250px" src="./project_logo.png">
-  </a>
-  [Corda](https://www.corda.net/) is an open source blockchain project, designed for business from the start. Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contract technology allows businesses to transact directly, with value.
+  </a><p>
+  [Corda](https://www.corda.net/) is an open source blockchain project, designed for business from the start. Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contract technology allows businesses to transact directly, with value.</p>
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
