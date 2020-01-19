@@ -4,6 +4,7 @@
   </a><br />
   <a href="https://www.corda.net/">Corda</a> is an open source blockchain project, designed for business from the start. Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contract technology allows businesses to transact directly, with value.
   <br />
+
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
