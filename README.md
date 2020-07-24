@@ -66,6 +66,7 @@ Pull requests are welcome!
 
 ## Learning and online courses
 
+- [Official Corda Training Platform](https://training.corda.net/) - Free training platform maintained by R3 (Corda + SDKs). Self-paced with optional support.
 - [Introduction to Corda Development](https://www.udemy.com/course/corda-development/) - A free self-paced online course.
 - [Corda developer certification](https://www.r3.com/training-and-certification/) - Become a certified Corda developer.
 
