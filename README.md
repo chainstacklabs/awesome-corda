@@ -51,6 +51,7 @@ Pull requests are welcome!
 - [Nodes and networks deployment with Chainstack](https://chainstack.com/corda/) - Easy Corda nodes and networks deployment.
 - [Partiture](https://manosbatsis.github.io/partiture/) - A compact component framework for your CorDapps. Currently, its primary goal is to simplify flow composition.
 - [PyCorda](https://github.com/chainhaus/pycorda) - Access node and vault data for analytics using pandas DataFrames.
+- [RPC PoolBoy](https://manosbatsis.github.io/corda-rpc-poolboy/) - RPC connection pool with support for multiple Corda nodes.
 - [Smart legal contracts with Accord](https://www.accordproject.org/news/smart-legal-contracts-on-corda/) - A reference implementation for smart legal contracts on Corda.
 - [Testacles](https://github.com/manosbatsis/corda-testacles) - Tools to grow CorDapp test suites.
 - [Vaultaire](https://manosbatsis.github.io/vaultaire/) - Query DSL and data access utilities for Corda developers.
